@@ -1,0 +1,13 @@
+{
+  "autoload": {
+    "psr-0": {
+      "": "src"
+    }
+  },
+  "require": {
+    "php": "^7.0"
+  },
+  "require-dev": {
+    "phpspec/phpspec": "^3.1"
+  }
+}
